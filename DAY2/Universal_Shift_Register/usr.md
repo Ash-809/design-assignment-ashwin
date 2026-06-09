@@ -16,3 +16,6 @@ A Universal Shift Register is a sequential circuit that can shift its stored dat
 ## Files Included
 * **Design File:** `usr.v`
 * **Testbench File:** `tb_usr.v`
+* **simulation of:** `tb_usr.v`
+* <img width="1571" height="818" alt="image" src="https://github.com/user-attachments/assets/7e259ca2-5c90-4133-b26c-f1343d8c02b0" />
+
