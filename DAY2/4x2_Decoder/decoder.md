@@ -13,3 +13,6 @@ A 4x2 decoder is a combinational logic circuit that takes 2 binary inputs and ac
 ## Files Included
 * **Design File:** `decoder.v`
 * **Testbench File:** `tb_decoder.v`
+* **simulation of:**  `tb_decoder.v`
+* <img width="1569" height="817" alt="image" src="https://github.com/user-attachments/assets/938cad87-1d2f-4503-8d1c-0de1901a9acc" /> 
+
