@@ -1,1 +1,23 @@
+`timescale 1ns / 1ps
+module decoder_4x2_tb;
+reg [3:0] in;
+    wire [1:0] out;
 
+    decoder_4x2 uut (
+        .in(in),
+        .out(out)
+    );
+
+    initial begin
+        in = 4'b0001; #100;
+        in = 4'b0010; #100;
+        in = 4'b0100; #100;
+        in = 4'b1000; #100;
+        in = 4'b0000; #100;
+        $finish;
+    end
+    
+    initial begin
+        $monitor("Time=%0t | in=%b | out=%b", $time, in, out);
+    end
+endmodule
