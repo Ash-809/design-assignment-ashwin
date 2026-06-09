@@ -16,3 +16,6 @@ A Full Adder is a combinational logic circuit that performs the addition of thre
 ## Files Included
 * **Design File:** `full_adder.v`
 * **Testbench File:** `tb_full_adder.v`
+* **simulation of:** `tb_ful_adder.v`
+* <img width="1571" height="822" alt="image" src="https://github.com/user-attachments/assets/8ba7ebd5-b374-49b8-a440-6330f52a1d91" />
+
