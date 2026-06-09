@@ -21,3 +21,6 @@ The BCD Adder architecture generally consists of two main parts:
 ## Files Included
 * **Design File:** `bcd_adder.v`
 * **Documentation:** `bcd.md`
+* **simulation of:** `tb_bcd_adder.v`
+* <img width="1576" height="818" alt="image" src="https://github.com/user-attachments/assets/3c5476d7-5d97-42ed-83c4-43e477c3fa4c" />
+
