@@ -15,3 +15,6 @@ A D Flip-Flop (Data or Delay Flip-Flop) is a sequential logic circuit that track
 ## Files Included
 * **Design File:** `d_ff.v`
 * **Testbench File:** `tb_d_ff.v`
+* **simulation of:** `tb_d_ff.v
+* <img width="1572" height="819" alt="image" src="https://github.com/user-attachments/assets/5158ac4a-c494-429d-9a85-2f376543bfe6" />
+
