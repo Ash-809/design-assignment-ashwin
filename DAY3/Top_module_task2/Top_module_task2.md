@@ -12,6 +12,16 @@ This project demonstrates a fundamental digital hardware design concept: safely 
 * **`top_module_tb.v` (Testbench)**: The simulation file that injects a burst of fast data (`d1`, `d2`, `d3`, etc.) to verify that the FIFO successfully buffers it and outputs it sequentially without dropping any initial values.
 * **simulatio of:** `top_module_tb.v`
 * <img width="512" height="266" alt="image" src="https://github.com/user-attachments/assets/3f876b6b-4b31-4cc4-90ee-3487bd5e3090" />
+**no of LUT in:** `top_module_.v
+  <img width="713" height="365" alt="image" src="https://github.com/user-attachments/assets/0fedc50d-cc61-43c2-a41b-e1d2b3b5e1a0" />
+**schematic:**
+  <img width="1571" height="813" alt="image" src="https://github.com/user-attachments/assets/38a04a2f-011d-4d0b-8da1-c2fe9a35feba" />
+**synthesis device:**
+  <img width="1575" height="816" alt="image" src="https://github.com/user-attachments/assets/447c4f26-66dd-40ca-b1c5-b8805eb05e5f" />
+
+    
+
+
 
 
 ## How to Run Simulation in Vivado
