@@ -10,7 +10,9 @@ This project demonstrates a fundamental digital hardware design concept: safely 
 * **`mod_out.v` (Slow Consumer)**: Uses a 3-state Finite State Machine (FSM) (`IDLE`, `READ_PROC`, `DONE`) to carefully read data from the FIFO, simulate a processing delay, and output the final result.
 * **`top_module.v` (Top-Level Wrapper)**: The structural file that instantiates the above three modules and wires them together along with a global reset signal.
 * **`top_module_tb.v` (Testbench)**: The simulation file that injects a burst of fast data (`d1`, `d2`, `d3`, etc.) to verify that the FIFO successfully buffers it and outputs it sequentially without dropping any initial values.
-* **simulatio of:**
+* **simulatio of:** `top_module_tb.v`
+* <img width="512" height="266" alt="image" src="https://github.com/user-attachments/assets/3f876b6b-4b31-4cc4-90ee-3487bd5e3090" />
+
 
 ## How to Run Simulation in Vivado
 1. Add `face_mod.v`, `fifo.v`, `mod_out.v`, and `top_module.v` to your **Design Sources**.
