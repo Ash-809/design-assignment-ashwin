@@ -19,3 +19,6 @@ In a 4-bit RCA, four Full Adders are chained together. The carry bit "ripples" f
 ## Files Included
 * **Design File:** `design/top.v`
 * **Testbench File:** `tb/tb_top.v`
+* **simulation of rca**
+* <img width="1567" height="443" alt="image" src="https://github.com/user-attachments/assets/432cc395-57af-4a5a-a711-8bd7cf2448b6" />
+
